@@ -1,0 +1,2 @@
+# myAppSample
+App for Android
